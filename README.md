@@ -21,3 +21,23 @@ Open `index.html` in a browser. No build step is required.
 5. Wait for the site URL to appear. It usually looks like `https://YOUR-USERNAME.github.io/raquib-portfolio/`.
 
 This is the portfolio front end. CCTV streaming and server metric collection are provided by your actual linked projects, not by this portfolio itself.
+
+
+## Profile photo
+The hero portrait uses `raquib-profile.jpg`. Keep that file in the repository root next to `index.html` when uploading the update.
+
+
+## Fix contact buttons
+- Replace `YOUR_EMAIL@example.com` in `index.html` with your real email address. The `mailto:` link opens the device's configured email app; if Chrome opens instead, configure a default email handler in Windows/browser settings or use a Gmail mailto handler.
+- Upload your actual resume PDF beside `index.html`, named exactly `resume.pdf`. Do not upload an empty or placeholder PDF.
+- The floating “Curious by default” and “Building & learning” chips have been removed from the hero section.
+
+
+## Personal contact details configured
+- Email: rk3961057@gmail.com
+- Phone: +91 9781041337
+- GitHub: https://github.com/Raquibkhan9781
+- LinkedIn: https://www.linkedin.com/in/raquib-ahmad-k-953784279
+- Resume: `resume.pdf` is included in the repository root.
+
+Note: The uploaded resume lists `rk3961057@gmail.com`. The email typed in chat was `rk3961057@gmal.com`, which looks like a typo; verify the intended address before publishing.
