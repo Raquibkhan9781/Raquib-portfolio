@@ -41,3 +41,14 @@ The hero portrait uses `raquib-profile.jpg`. Keep that file in the repository ro
 - Resume: `resume.pdf` is included in the repository root.
 
 Note: The uploaded resume lists `rk3961057@gmail.com`. The email typed in chat was `rk3961057@gmal.com`, which looks like a typo; verify the intended address before publishing.
+
+
+## Complete portfolio configuration
+- Confirmed email: rk3961057@gmail.com
+- Phone: +91 97810 41337
+- GitHub profile/repositories: https://github.com/Raquibkhan9781?tab=repositories
+- LinkedIn: https://www.linkedin.com/in/raquib-ahmad-k-953784279
+- Resume PDF: `resume.pdf` is in the root folder.
+- Profile image: `raquib-profile.jpg` is in the root folder.
+- The two hero floating labels are removed.
+- Project GitHub buttons link to your repository list for now because the exact repository names and deployed demo URLs have not been confirmed. Replace each with its exact repository/live URL when available.
