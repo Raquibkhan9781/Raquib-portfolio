@@ -26,3 +26,14 @@
 .contact-links strong{display:block;color:#eee9ff;font-size:11px;font-weight:600;overflow-wrap:anywhere}
 @media(max-width:700px){.contact-links{grid-template-columns:1fr 1fr}}
 @media(max-width:420px){.contact-links{grid-template-columns:1fr}}
+
+/* Professional custom project illustrations */
+.art{isolation:isolate;background-color:#0b0c19;background-image:radial-gradient(ellipse at 50% 65%,#7652df24,transparent 62%),linear-gradient(135deg,#0c1020,#0b0b17)}
+.art:after{content:"";position:absolute;inset:12px;border:1px solid #ffffff08;border-radius:10px;pointer-events:none}
+.art-grid{opacity:.24;background-image:linear-gradient(#a388ff16 1px,transparent 1px),linear-gradient(90deg,#a388ff16 1px,transparent 1px);background-size:25px 25px;transform:perspective(500px) rotateX(24deg) scale(1.4);transform-origin:bottom}
+.project-icon{z-index:1;width:min(76%,300px);height:150px;overflow:visible;filter:drop-shadow(0 12px 22px #0005);transition:transform .35s ease,filter .35s ease}
+.project:hover .project-icon{transform:translateY(-4px) scale(1.035);filter:drop-shadow(0 15px 28px #8d5bfa35)}
+.art-traffic{background-image:radial-gradient(ellipse at 50% 70%,#ff638a20,transparent 60%),linear-gradient(135deg,#10101e,#0b0b17)}
+.art-wedding{background-image:radial-gradient(ellipse at 50% 70%,#ff73bf22,transparent 60%),linear-gradient(135deg,#171022,#0c0b18)}
+.art-restaurant{background-image:radial-gradient(ellipse at 50% 70%,#5be5d51c,transparent 60%),linear-gradient(135deg,#0b1720,#0b0b17)}
+@media(max-width:640px){.project-icon{width:min(80%,300px);height:145px}}
