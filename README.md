@@ -1,4 +1,4 @@
-# Nawab — Placement-focused Developer Portfolio
+# Raquib Ahmad Khan — Placement-focused Developer Portfolio
 
 A responsive portfolio made with plain HTML, CSS, and JavaScript. It includes a premium dark theme, animated hero panel, scroll reveals, mobile navigation, project cards, skills, and contact links.
 
