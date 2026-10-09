@@ -8,9 +8,5 @@
 .portrait-status { width:8px; height:8px; border-radius:50%; background:#65f0be; box-shadow:0 0 12px #65f0be; flex:0 0 auto; }
 .portrait-caption strong { display:block; color:#fff; font:600 13px var(--display); }
 .portrait-caption small { display:block; margin-top:2px; color:#bcb6d4; font-size:10px; }
-.portrait-chip { position:absolute; z-index:4; padding:11px 14px; border:1px solid rgba(190,178,255,.22); border-radius:12px; background:rgba(17,16,33,.93); color:#e4ddfa; font-size:10px; box-shadow:0 10px 35px rgba(0,0,0,.25); }
-.portrait-chip.chip-top { top:30px; right:-12px; }
-.portrait-chip.chip-bottom { bottom:30px; left:-12px; display:flex; align-items:center; gap:9px; }
-.portrait-chip i { display:inline-block; width:7px; height:7px; border-radius:50%; background:#65f0be; box-shadow:0 0 12px #65f0be; }
 @media(max-width:900px) { .portrait-frame { width:min(100%,360px); height:420px; } }
-@media(max-width:640px) { .visual { min-height:360px; } .portrait-frame { width:min(100%,310px); height:365px; } .portrait-chip.chip-top { right:0; top:4px; } .portrait-chip.chip-bottom { left:0; bottom:4px; } .portrait-glow { width:280px; height:310px; } }
+@media(max-width:640px) { .visual { min-height:360px; } .portrait-frame { width:min(100%,310px); height:365px; } .portrait-glow { width:280px; height:310px; } }
